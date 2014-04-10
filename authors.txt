@@ -1,0 +1,18 @@
+Developers:
+Gerald Davis <gerald@tangiblecryptography.com>
+
+BitSharper was forked from the BitcoinSharp project
+
+BitcoinSharp Developers (2008-2010):
+Mike Hearn <hearn@google.com>
+Miron Cuperman (a.k.a. devrandom) <miron@google.com>
+Xiaofeng Guo <xiaofengguo@google.com>
+Thilo Planz <thilo@cpan.org>
+Micheal Swiggs <bobby.simpson87@gmail.com>
+Gary Rowe <g.rowe@froot.co.uk>
+Noa Resare <noa@resare.com>
+John Sample <jwsample@gmail.com>
+Jan Møller <jan.moller@gmail.com>
+Wolfgang Nagele <wolfgang.nagele@gmail.com>
+Jonny Heggheim <hegjon@gmail.com>
+Nathan Baulch <nathan.baulch@gmail.com>
