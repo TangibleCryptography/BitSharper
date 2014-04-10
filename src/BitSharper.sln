@@ -9,17 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitSharper.Demo", "Demo\Bit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitSharper.Test", "Test\BitSharper.Test.csproj", "{1F699CA0-3353-488F-BA48-26D82B287F2D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{37D0ADBF-89EB-4762-AE7E-FD833995E077}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE44B3F1-B814-4721-9190-986C4030C26E}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitattributes = ..\.gitattributes
 		..\.gitignore = ..\.gitignore
 		..\authors.txt = ..\authors.txt
 		..\LICENSE = ..\LICENSE
+		..\nuget.config = ..\nuget.config
 	EndProjectSection
 EndProject
 Global
